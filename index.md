@@ -9,8 +9,9 @@
 [Remote](http://192.168.0.100:8080) (This will only work if you're connected to Electric Boogaloo Wi-fi)
 
 # Info
+
 ## TV Shows
-### Adding New Series
+#### Adding New Series
 1. Go to [TV Shows](http://tv.samfriedman.site)
 2. Click Series in the top header
 3. Click Add Series
@@ -18,7 +19,7 @@
 5. Unless you really want it in HD, set the Profile to SD. Not only will HD take longer to download, itll fill up the hard drive pretty quickly
 6. To download the entire series, click the magnifying glass (Add series and search for missing episodes)
 
-### Adding missing episodes for existing series
+#### Adding missing episodes for existing series
 1. Go to [TV Shows](http://tv.samfriedman.site)
 2. Click Series in the top header
 3. Click the series in the list
