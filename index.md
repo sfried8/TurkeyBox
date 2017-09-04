@@ -1,2 +1,2 @@
-[TV Shows](tv.samfriedman.site)
-[Movies](movie.samfriedman.site)
+[TV Shows](http://tv.samfriedman.site)
+[Movies](http://movie.samfriedman.site)
